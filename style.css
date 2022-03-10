@@ -1,0 +1,17 @@
+      @import url(https://fonts.googleapis.com/css2?family=Amiri:ital@1&display=swap);
+      
+
+.text-color{
+    color: rgb(0, 225, 255);
+    background-color: rgb(97, 3, 3);
+    font-family: Amiri ;
+}
+
+#color {
+        color: blueviolet;
+        font-weight: bolder;
+}
+
+.color2{
+    text-align: center;
+}
